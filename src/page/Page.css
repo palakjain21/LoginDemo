@@ -1,0 +1,15 @@
+.para {
+  text-align: center;
+}
+.logout {
+  width: 6rem;
+  height: 2.5rem;
+  margin-top: 1rem;
+  color: black;
+  background-color: #67917d;
+  border: none;
+  box-shadow: none;
+  position: absolute;
+  top: 5%;
+  right: 47%;
+}
